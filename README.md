@@ -1,3 +1,1 @@
-# AIStudy
-
-AI Study
+Multiclass Problem Study
